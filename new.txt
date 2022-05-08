@@ -1,1 +1,5 @@
-first line
+lastName: Klyushkin
+name: Yuriy
+age: 36
+homePets: 0
+salary: 2200 EUR
