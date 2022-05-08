@@ -1,0 +1,5 @@
+favoriteMovie: Matrix
+favoriteShow: Santa Barbara
+favoriteFood: dumplings
+favoriteSeasons: Winter
+nextTravel: Maldives
