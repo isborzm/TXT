@@ -3,3 +3,4 @@ skills2: clientServerArchitecture
 skills3: Postman
 skills4: JS
 skills...N: etc
+skills26: Golang
